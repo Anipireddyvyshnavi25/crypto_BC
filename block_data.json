@@ -46,5 +46,13 @@
         "file_path": "c:\\Users\\Admin\\OneDrive\\Desktop\\crypto_code1\\sample_eny.dat",
         "device_ip": "192.168.1.12",
         "operation": "decryption"
+    },
+    {
+        "block_id": "7c8bfeef35d71283",
+        "timestamp": "2025-02-17T13:09:05.643619",
+        "file_name": "C:/Users/Admin/OneDrive/Desktop/crypto_code1/sample_eny.dat",
+        "file_path": "C:\\Users\\Admin\\OneDrive\\Desktop\\crypto_code1\\sample_eny.dat",
+        "device_ip": "192.168.34.81",
+        "operation": "encryption"
     }
 ]
