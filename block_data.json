@@ -174,5 +174,13 @@
         "file_path": "c:\\Users\\Admin\\OneDrive\\Desktop\\crypto_code1\\k3.dat",
         "device_ip": "192.168.106.81",
         "operation": "decryption"
+    },
+    {
+        "block_id": "e60418b4f5fc11c9",
+        "timestamp": "2025-04-21T12:27:00.857140",
+        "file_name": "k3.dat",
+        "file_path": "c:\\Users\\Admin\\OneDrive\\Desktop\\crypto_code1\\k3.dat",
+        "device_ip": "192.168.106.81",
+        "operation": "encryption"
     }
 ]
